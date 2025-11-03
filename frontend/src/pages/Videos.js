@@ -143,7 +143,7 @@ const Videos = () => {
                     <Link to={`/video/${video.id}`}>
                       <Button className="w-full bg-purple-600 hover:bg-purple-700 min-h-12 active:scale-95 transition-transform">
                         <MessageCircle className="mr-2 h-4 w-4" />
-                        Read Reflection
+                        Read The Extra Byte
                       </Button>
                     </Link>
                   </div>
