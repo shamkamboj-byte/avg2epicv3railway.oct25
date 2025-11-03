@@ -329,13 +329,13 @@ const AdminDashboard = () => {
               </div>
 
               <div>
-                <Label htmlFor="edit-reflection">Reflection</Label>
+                <Label htmlFor="edit-reflection">The Extra Byte</Label>
                 <Textarea
                   id="edit-reflection"
                   name="reflection"
                   value={newVideo.reflection}
                   onChange={handleChange}
-                  placeholder="Write your reflection for this day..."
+                  placeholder="Write The Extra Byte for this day..."
                   rows={5}
                   required
                 />
