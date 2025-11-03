@@ -97,9 +97,9 @@ const VideoDetail = () => {
           </div>
         </div>
 
-        {/* Reflection */}
+        {/* The Extra Byte */}
         <div className="bg-white rounded-2xl shadow-lg p-8 md:p-12 mb-12">
-          <h2 className="text-3xl font-bold mb-6 text-slate-900">Reflection</h2>
+          <h2 className="text-3xl font-bold mb-6 text-slate-900">The Extra Byte</h2>
           <p className="text-xl text-slate-700 leading-relaxed whitespace-pre-wrap">
             {video.reflection}
           </p>
